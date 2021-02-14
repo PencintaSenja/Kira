@@ -40,4 +40,4 @@ Simple WhatsApp Bot
 
 </p>
 
-[GITHUB](https://github.com/DanBandung)
+[GITHUB](https://github.com/PencintaSenja)
